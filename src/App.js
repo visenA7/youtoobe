@@ -21,7 +21,7 @@ const App = () => {
     setVideoP(e);
   };
   useEffect(() => {
-    onSubmitHandler({ inputValue: 'Harry Potter' });
+    onSubmitHandler('Harry Potter');
   }, []);
 
   return (
