@@ -1,0 +1,6 @@
+A youtube clone search App where you can seach and play youtube videos renderd from YoutubeApi.
+there is a searchbar on Top which take input from user and make request to youtube api through axios.(default search trending)
+videos searched added on left side of the site and show in a card based manner with thumbnail and video title which you can select to play.
+and right site the first video is on for play.{iframe tag(saurced from og youtube) is used to play the videos on the browser.}
+used life cycle methods,states
+styling via bootstarp5
